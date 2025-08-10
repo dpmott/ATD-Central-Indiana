@@ -1,0 +1,1 @@
+var program = [{"id":"1","title":"Registration, Breakfast, Networking","date":"2025-11-07","time":"23:00","mins":"50","desc":"New Year's Eve Celebration","loc":["Panel Room"],"tags":["Party","NYE","Mingle"],"people":[{"name":"David Mott","id":"1"}]}];

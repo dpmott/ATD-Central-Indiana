@@ -1,0 +1,13 @@
+# .gitignore
+
+**/node_modules
+*.bak
+**/*.csv
+**/*.tab
+**/*.docx
+**/*.pdf
+**/*.xls*
+supervisord.log
+supervisord.pid
+prototyping
+**/configs
