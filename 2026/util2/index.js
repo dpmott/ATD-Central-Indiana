@@ -5,7 +5,7 @@ const Wreck = require('@hapi/wreck');
 const Fs = require('fs');
 const Promise = require('bluebird');
 
-const key = '1ETYjmDjE3ZYdaBnpz9U5SB2wlUBh6j4DyDRNig6ppTo';
+const key = '1fqvN4pSA6v0fyWwfqnSPIAm0MyD3Q-FyTKEISHvhfNs';
 const config = [
   {
     key,
